@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\uyatashi\.android\build-cache\575504597d961f3407abe7926797654ee9dfcb67\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="C:\Users\uyatashi\Documents\guitar6\Temp\gradleOut\build\intermediates\pre-dexed\release\VuforiaUnityPlayer_7fcfb434b586e7596abaae23a3129453280598e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\uyatashi\.android\build-cache\575504597d961f3407abe7926797654ee9dfcb67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="C:\Users\uyatashi\Documents\guitar6\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_e9445b7eb4930d7c9f89a0d57b06d16d8c8a80d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\uyatashi\Documents\guitar6\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\uyatashi\Documents\guitar6\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_88cafef78786c3e9591361f663305208bad6f614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\uyatashi\.android\build-cache\575504597d961f3407abe7926797654ee9dfcb67\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="C:\Users\uyatashi\Documents\guitar6\Temp\gradleOut\build\intermediates\pre-dexed\release\Vuforia_d63b567c438c1d6d828f4a450b42d1b3f0c5b132.jar" />
+    </item>
+
+</items>
